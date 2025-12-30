@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png",الأردن
 0.0.0.0
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -18,7 +18,7 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.factjo.com/App_Themes/webSite/imgThemes/mainlogo2023a.png" ,الحقيقة الدّولية 
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png",الإمارات العربية المتحدة
 0.0.0.0
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
@@ -82,7 +82,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif",البحرين
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854244051420459055c8727-b18f-43dd-9a3f-b4cc73ca297e.png",البحرين
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/bahrain/flag-round-250.png",البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854242859127769a714488e-11d6-4e60-bf4f-f07a0d76cf63.png" ,البحرين الدولية
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
@@ -92,7 +92,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636857241081823413fdce3c15-a4eb-4743-a182-a60dfc7de0eb.png" ,البحرين القرآن الكريم
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Algeria_240-animated-flag-gifs.gif",الــــجزائر
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png",الــــجزائر
 0.0.0.0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
@@ -150,7 +150,7 @@ https://live.eighty-eight.tv:7770/elheddaf1/tracks-v1a1/mono.ts.m3u8
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 KIDS DZ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif",المملكة العربية السعودية
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png",المملكة العربية السعودية
 0.0.0.0
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
@@ -258,7 +258,7 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" ,صاد
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif",السودان
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/sudan/flag-round-250.png",السودان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
@@ -280,7 +280,7 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/uploads/images/fmCVt.jpg" ,أم درمان
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-46-345_512.gif",الــــعــــراق
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png",الــــعــــراق
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://imn.iq/wp-content/uploads/2022/04/1-9.jpg" ,العراقية
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
@@ -325,7 +325,7 @@ https://s1.ettehadlive.com/live/33/chunklist_w20815727.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aleshraqtv.iq/wene/logo.png" ,الإشراق
 https://s1.ettehadlive.com/live/19/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Kuwait-animated.gif",الـــــكويت
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/kuwait/flag-round-250.png",الـــــكويت
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/195/65a92f2a88.png" ,الكويت 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
@@ -357,7 +357,7 @@ https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u
 https://ffs.gulfsat.com/Marina-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="",Bahry 
 https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Morocco.gif",المغرب
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png",المغرب
 0.0.0.0
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-logo="https://i.ibb.co/WcFBy41/oula.png"  ,Al Oula الأولى 
 https://xddrts.alwaysdata.net/maroo88/maaloula.php?m3u8
@@ -393,7 +393,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_d
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiomars.ma/wp-content/uploads/2025/05/RADIOMARS_LOGO-3.png" , راديو MARS 
 https://edge18.vedge.infomaniak.com/livecast/ik:radiomars/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_yemen.gif",اليمن
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/yemen/flag-round-250.png",اليمن
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
@@ -415,7 +415,7 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yementdy.tv/logo.png" ,اليمن اليوم
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Tunisia.gif",تونس
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png",تونس
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"  ,الوطنية 1 
 https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-HLS8/tunisienationale.m3u8
@@ -453,7 +453,7 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radionationale.tn/images/logos/logo-watania.svg",الإذاعة التونسية
 https://tv.radiotunisienne.tn/radiotn/nationale_video/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/syria/flag-round-250.png",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 
@@ -473,7 +473,7 @@ https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://welattv.net/files/welattv-logo-6_0.png" ,Welat TV 
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Animated-Flag-Oman.gif",عُــــمان
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/oman/flag-round-250.png",عُــــمان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png" ,عُمان
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
@@ -485,7 +485,7 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png" ,الإستقامة
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif",فـــلسطــين
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/palestine/flag-round-250.png",فـــلسطــين
 0.0.0.0
 
 #EXTINF:-1 tvg-id=""  user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png",فلسطين
@@ -535,7 +535,7 @@ http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.wbn.ps/assets/images/logo.png",وتر
 https://htvint.mada.ps/orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",قـــــطـــر
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/qatar/flag-round-250.png",قـــــطـــر
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.qtv.qa/Assets2022/images/logo.png" ,قطر 1
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
@@ -549,7 +549,7 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg" ,العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Animated-Flag-Lebanon.gif",لــــبنـــان
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/lebanon/flag-round-250.png",لــــبنـــان
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" ,LBC
 http://185.9.2.18/chid_521/index.m3u8
@@ -578,7 +578,7 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1831890321.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png" ,الإتحاد
 https://live.alittihad.tv:444/ittihad/chunklist_w873294720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif",لـيـــبـــيــا
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-round-250.png",لـيـــبـــيــا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" ,سلام
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
@@ -600,7 +600,7 @@ http://82.212.74.100:8000/live/8103.m3u8
 https://media1.livaat.com/live/Libya-bussness/index.m3u8
 #EXTINF:-1 tvg-id="",Libya Al Wataniya 
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Egypt%28Moving%29.gif",مــــصـــر
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/egypt/flag-round-250.png",مــــصـــر
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" ,الأولى
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8
@@ -660,7 +660,7 @@ https://rp.tactivemedia.com/alshoobtv/live/chunks.m3u8
 https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="",مـــوريتانيا
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png" ,الموريتانية 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الموريتانية 2
 
@@ -748,5 +748,3 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
-
-
