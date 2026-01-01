@@ -103,9 +103,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
-http://69.64.57.208/canalalgerie/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" ,EPTV 4 Tamazighth الأمازيغية
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV5.png" ,EPTV 5 Quran القرآن الكريم
@@ -134,7 +134,7 @@ http://69.64.57.208/canalalgerie/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
+#EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png" ,Bahia TV Oran الباهية
 
@@ -298,7 +298,7 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" , العراقية الرياضية
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.alsharqiya.com/Content/admin-assets/uploads/lives/470922_image_048052_image_34.jpg" ,الشرقية
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" ,الشرقية
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alsharqiya.com/Content/admin-assets/uploads/lives/191968_image_824949_image_Sharqiya_News_logo.png" ,الشرقية الإخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
@@ -308,7 +308,7 @@ https://live.alawla.tv/hls/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dijlah.tv/LogoMob.png" ,دجلة
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" ,UTV Iraq
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Utv_logo.png" ,UTV Iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.iq-hosting.com/images/kb/51_Logo-Dark.png" , الرشيد
 https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8
@@ -330,6 +330,10 @@ https://s1.ettehadlive.com/live/3/chunklist_w803213955.m3u8
 https://s1.ettehadlive.com/live/33/chunklist_w20815727.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aleshraqtv.iq/wene/logo.png" ,الإشراق
 https://s1.ettehadlive.com/live/19/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://karbala-tv.iq/quran/static/img/logo.png" ,كربلاء القرأن الكريم
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://karbala-tv.iq/documentary/static/img/logo.png" ,كربلاء الوثائقية
+https://ktvlive.online/stream/hls/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/kuwait/flag-round-250.png",الـــــكويت
 0.0.0.0
@@ -754,5 +758,6 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
 
 
