@@ -78,6 +78,8 @@ https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_sour
 https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,إذاعة الشّارقة قرآن كريم 
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,PULSE 95 RADIO
+https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aldafrah.ae/wp-content/uploads/2022/08/adf-logo.png" ,الظّفرة
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,الفجيرة
@@ -129,7 +131,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
-
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
@@ -497,6 +499,16 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omanlive.png" ,عُمان مباشر
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,إذاعة عُمان
+https://partwota.cdn.mgmlcdn.com/omanrdoorg/omanrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,إذاعة الشباب
+https://partwota.cdn.mgmlcdn.com/shababrdoorg/shababrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,القرآن الكريم
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الإذاعة الإنجليزية
+https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,صوت عُمان
+https://partneta.cdn.mgmlcdn.com/voa/voa.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png" ,الإستقامة
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/palestine/flag-round-250.png",فـــلسطــين
@@ -761,6 +773,7 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
 
 
 
